@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/halxp/Desktop/C++/1/BinTree.cpp
+iostream
+-
+
+/Users/halxp/Desktop/C++/1/library.cpp
+library.h
+/Users/halxp/Desktop/C++/1/library.h
+iostream
+-
+
+/Users/halxp/Desktop/C++/1/library.h
+
