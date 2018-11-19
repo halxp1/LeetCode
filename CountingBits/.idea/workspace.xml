@@ -20,7 +20,7 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RunManager" selected="Application.CountingBits">
-    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" EXPLICIT_BUILD_TARGET_NAME="all" />
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CountingBits" RUN_TARGET_NAME="CountingBits" EXPLICIT_BUILD_TARGET_NAME="all" />
     <configuration name="CountingBits" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CountingBits" TARGET_NAME="CountingBits" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CountingBits" RUN_TARGET_NAME="CountingBits" />
     <list>
       <item itemvalue="Application.Build All" />

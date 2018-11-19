@@ -1,4 +1,4 @@
-# Install script for directory: /Users/halxp/Desktop/C++/CountingBits
+# Install script for directory: /Users/halxp/Desktop/AlgorithmCode/CountingBits
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/halxp/Desktop/C++/CountingBits/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/halxp/Desktop/AlgorithmCode/CountingBits/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

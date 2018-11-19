@@ -1,4 +1,4 @@
-"/Users/halxp/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/181.5540.8/CLion.app/Contents/bin/cmake/bin/cmake" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/halxp/Desktop/C++/CountingBits
+"/Users/halxp/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/181.5540.8/CLion.app/Contents/bin/cmake/bin/cmake" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/halxp/Desktop/AlgorithmCode/CountingBits
 -- The C compiler identification is AppleClang 8.0.0.8000042
 -- The CXX compiler identification is AppleClang 8.0.0.8000042
 -- Check for working C compiler: /Library/Developer/CommandLineTools/usr/bin/cc
@@ -15,4 +15,4 @@
 -- Detecting CXX compile features - done
 -- Configuring done
 -- Generating done
--- Build files have been written to: /Users/halxp/Desktop/C++/CountingBits/cmake-build-debug
+-- Build files have been written to: /Users/halxp/Desktop/AlgorithmCode/CountingBits/cmake-build-debug
