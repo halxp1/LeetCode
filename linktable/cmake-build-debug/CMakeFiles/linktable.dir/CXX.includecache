@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/halxp/Desktop/C++/linktable/library.cpp
+library.h
+/Users/halxp/Desktop/C++/linktable/library.h
+iostream
+-
+
+/Users/halxp/Desktop/C++/linktable/library.h
+
+/Users/halxp/Desktop/C++/linktable/link.cpp
+iostream
+-
+stdio.h
+-
+

@@ -1,0 +1,3 @@
+/Users/halxp/Desktop/C++/linktable/CMakeFiles/rebuild_cache.dir
+/Users/halxp/Desktop/C++/linktable/CMakeFiles/edit_cache.dir
+/Users/halxp/Desktop/C++/linktable/CMakeFiles/link.dir

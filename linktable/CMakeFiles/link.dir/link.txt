@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/link.dir/library.cpp.o CMakeFiles/link.dir/link.cpp.o  -o link 
